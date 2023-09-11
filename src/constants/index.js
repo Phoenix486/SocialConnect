@@ -46,4 +46,4 @@ export const communityTabs = [
 
 //base url
 export const BASE_URL = 'http://localhost:5041/api';
-export const HOME_URL = "http://localhost:3000/";
+export const HOME_URL = "https://social-connect-gr5b05c28-phoenix486.vercel.app/";
