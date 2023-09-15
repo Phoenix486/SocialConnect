@@ -45,5 +45,6 @@ export const communityTabs = [
 
 
 //base url
-export const BASE_URL = 'http://localhost:5041/api';
+export const BASE_URL = 'https://socialconnect.azurewebsites.net/api';
+//export const HOME_URL = "https://social-connect-gr5b05c28-phoenix486.vercel.app/";
 export const HOME_URL = "https://social-connect-gr5b05c28-phoenix486.vercel.app/";
